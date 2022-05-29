@@ -2,8 +2,8 @@
 Repo ini akan membuat web lokal Genshin Builder, yaitu sebuah web yang dapat menyimpan dan menampilkan Build untuk karakter dari game Genshin Impact
 Build pada web ini akan memuat karakter, senjata, serta 5 artifak saja.
 
-![]("https://raw.githubusercontent.com/GreyWard/Web_Genshin_Builder/main/Screenshot%202022-05-29%20215624.png?token=GHSAT0AAAAAABUKYPGTTIP34Q4UYQNXEEUWYUTTAHQ")
-![]("https://raw.githubusercontent.com/GreyWard/Web_Genshin_Builder/main/Screenshot%202022-05-29%20215659.png?token=GHSAT0AAAAAABUKYPGTP65Y5GIA3DPAMIPIYUTTA5Q")
+![]("https://raw.githubusercontent.com/GreyWard/Web_Genshin_Builder/main/Screenshot%202022-05-29%20215624.png")
+![]("https://raw.githubusercontent.com/GreyWard/Web_Genshin_Builder/main/Screenshot%202022-05-29%20215659.png")
 
 ## 📄 External Resource
 FrontEnd pada repo ini menggunakan bantuan <a href="https://reactjs.org/" target="_blank">React.js</a> untuk membuat website yang dinamis, rapih dan bagus secara visual.
