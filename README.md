@@ -2,9 +2,6 @@
 Repo ini akan membuat web lokal Genshin Builder, yaitu sebuah web yang dapat menyimpan dan menampilkan Build untuk karakter dari game Genshin Impact
 Build pada web ini akan memuat karakter, senjata, serta 5 artifak saja.
 
-![]("https://raw.githubusercontent.com/GreyWard/Web_Genshin_Builder/main/Screenshot%202022-05-29%20215624.png")
-![]("https://raw.githubusercontent.com/GreyWard/Web_Genshin_Builder/main/Screenshot%202022-05-29%20215659.png")
-
 ## 📄 External Resource
 FrontEnd pada repo ini menggunakan bantuan <a href="https://reactjs.org/" target="_blank">React.js</a> untuk membuat website yang dinamis, rapih dan bagus secara visual.
 
@@ -40,8 +37,15 @@ BackEnd pada repo ini menggunakan bantuan <a href="https://nodejs.org/en/" targe
   <summary>🔗UML and ERD Graph</summary>
   
   Berikut adalah diagram UML dan ERD-nya:
-  ![UML](https://raw.githubusercontent.com/GreyWard/Web_Genshin_Builder/main/Genshin_Builder-UML%20(1).png)
-  ![ERD](https://raw.githubusercontent.com/GreyWard/Web_Genshin_Builder/main/Genshin_Builder-ERD%20(1).png)
+  ![Alt text](https://github.com/GreyWard/Web_Genshin_Builder/blob/main/Genshin_Builder-UML%20(1).png?raw=true)
+  ![Alt text](https://github.com/GreyWard/Web_Genshin_Builder/blob/main/Genshin_Builder-ERD%20(1).png?raw=true)
+  
+</details>
+<details>
+  <summary>📸Screenshots</summary>
+  
+  ![](https://github.com/GreyWard/Web_Genshin_Builder/blob/main/Screenshot%202022-05-29%20215624.png?raw=true)
+  ![](https://github.com/GreyWard/Web_Genshin_Builder/blob/main/Screenshot%202022-05-29%20215659.png?raw=true)
   
 </details>
 
