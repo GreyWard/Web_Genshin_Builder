@@ -2,6 +2,11 @@
 Repo ini akan membuat web lokal Genshin Builder, yaitu sebuah web yang dapat menyimpan dan menampilkan Build untuk karakter dari game Genshin Impact
 Build pada web ini akan memuat karakter, senjata, serta 5 artifak saja.
 
+## ✨ Features
+* Menyimpan dan membuat *Build* dari game Genshin Impact
+* Melihat *Build* yang dibuat oleh User lain
+* Menyimpan *Build* yang dibuat oleh User lain
+
 ## 📄 External Resource
 FrontEnd pada repo ini menggunakan bantuan <a href="https://reactjs.org/" target="_blank">React.js</a> untuk membuat website yang dinamis, rapih dan bagus secara visual.
 
@@ -309,8 +314,6 @@ app.get('/circlet',(req,res)=>{
         res.send(results.rows)
     })
 })
-  
   ```
-  
   
 </details>
