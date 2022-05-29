@@ -2,10 +2,19 @@
 Repo ini akan membuat web lokal Genshin Builder, yaitu sebuah web yang dapat menyimpan dan menampilkan Build untuk karakter dari game Genshin Impact
 Build pada web ini akan memuat karakter, senjata, serta 5 artifak saja.
 
+![]("https://raw.githubusercontent.com/GreyWard/Web_Genshin_Builder/main/Screenshot%202022-05-29%20215624.png?token=GHSAT0AAAAAABUKYPGTTIP34Q4UYQNXEEUWYUTTAHQ")
+![]("https://raw.githubusercontent.com/GreyWard/Web_Genshin_Builder/main/Screenshot%202022-05-29%20215659.png?token=GHSAT0AAAAAABUKYPGTP65Y5GIA3DPAMIPIYUTTA5Q")
+
 ## 📄 External Resource
 FrontEnd pada repo ini menggunakan bantuan <a href="https://reactjs.org/" target="_blank">React.js</a> untuk membuat website yang dinamis, rapih dan bagus secara visual.
 
 BackEnd pada repo ini menggunakan bantuan <a href="https://nodejs.org/en/" target="_blank">Node.js</a> untuk membuat API ke PSQL database.
+
+## 📦 How to install
+1. Download dan jalankan pg_restore untuk folder ```genshin_builder_dump.sql``` ke database PSQL yang disiapkan
+2. Sesuaikan objek ```Client``` pada ```index.js``` ke database PSQL yang disiapkan sebelumnya
+3. Lakukan ```npm install``` sesuai dengan library yang dibutuhkan (Hint: coba lakukan ```run``` dan jika terdapat error, install module yang tidak ditemukan)
+4. Run index.js pada folder backend, dan lakukan langkah 3-4 pada folder frontend (gunakan ```npm start```)
 
 ## 🚀 How to use
 1. Landing page, bisa melihat seluruh build yang ada pada page ini, dan melakukan login/register
@@ -14,12 +23,6 @@ BackEnd pada repo ini menggunakan bantuan <a href="https://nodejs.org/en/" targe
 4. jika sudah login, **Build** pada landing page bisa di copy ke **PersonalBuild**
 5. **PersonalBuild Page** akan memuat seluruh **Build** yang dimiliki akun tersebut
 6. di page ini kita juga dapat menghapus **Build** yang ada dan membuat **Build** baru, serta melakukan pembaharuan pada **Build**
-
-## 📦 How to install
-1. Download dan jalankan pg_restore untuk folder ```genshin_builder_dump.sql``` ke database PSQL yang disiapkan
-2. Sesuaikan objek ```Client``` pada ```index.js``` ke database PSQL yang disiapkan sebelumnya
-3. Lakukan ```npm install``` sesuai dengan library yang dibutuhkan (Hint: coba lakukan ```run``` dan jika terdapat error, install module yang tidak ditemukan)
-4. Run index.js pada folder backend, dan lakukan langkah 3-4 pada folder frontend (gunakan ```npm start```)
 
 ## 📁 Other Information for Usage
 <details>
