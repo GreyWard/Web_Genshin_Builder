@@ -2,6 +2,9 @@
 Repo ini akan membuat web lokal Genshin Builder, yaitu sebuah web yang dapat menyimpan dan menampilkan Build untuk karakter dari game Genshin Impact
 Build pada web ini akan memuat karakter, senjata, serta 5 artifak saja.
 
+Berikut adalah diagram UML dan ERD-nya:
+![UML](https://raw.githubusercontent.com/GreyWard/Web_Genshin_Builder/main/Genshin_Builder-UML%20(1).png?token=GHSAT0AAAAAABUKYPGSIW7VJ3QV5BAOH7NYYUTPESQ)
+![ERD](https://raw.githubusercontent.com/GreyWard/Web_Genshin_Builder/main/Genshin_Builder-ERD%20(1).png?token=GHSAT0AAAAAABUKYPGTYLT5THUOEACL6RD2YUTPE7A)
 ## How to use
 1. Landing page, bisa melihat seluruh build yang ada pada page ini, dan melakukan login/register
 2. silahkan coba register, pastikan username tidak sama seperti akun yang sudah ada sebelumnya
