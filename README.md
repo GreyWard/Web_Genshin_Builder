@@ -40,8 +40,8 @@ BackEnd pada repo ini menggunakan bantuan <a href="https://nodejs.org/en/" targe
   <summary>🔗UML and ERD Graph</summary>
   
   Berikut adalah diagram UML dan ERD-nya:
-  ![UML](https://raw.githubusercontent.com/GreyWard/Web_Genshin_Builder/main/Genshin_Builder-UML%20(1).png?token=GHSAT0AAAAAABUKYPGSIW7VJ3QV5BAOH7NYYUTPESQ)
-  ![ERD](https://raw.githubusercontent.com/GreyWard/Web_Genshin_Builder/main/Genshin_Builder-ERD%20(1).png?token=GHSAT0AAAAAABUKYPGTYLT5THUOEACL6RD2YUTPE7A)
+  ![UML](https://raw.githubusercontent.com/GreyWard/Web_Genshin_Builder/main/Genshin_Builder-UML%20(1).png)
+  ![ERD](https://raw.githubusercontent.com/GreyWard/Web_Genshin_Builder/main/Genshin_Builder-ERD%20(1).png)
   
 </details>
 
